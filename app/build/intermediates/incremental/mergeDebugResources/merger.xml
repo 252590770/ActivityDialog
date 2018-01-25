@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\Test1\app\src\main\res"/><source path="F:\Test1\app\build\generated\res\rs\debug"/><source path="F:\Test1\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\Test1\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\Test1\app\src\main\res"><file name="push_top_in2" path="F:\Test1\app\src\main\res\anim\push_top_in2.xml" qualifiers="" type="anim"/><file name="push_top_out2" path="F:\Test1\app\src\main\res\anim\push_top_out2.xml" qualifiers="" type="anim"/><file name="ic_launcher" path="F:\Test1\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="title_function_bg" path="F:\Test1\app\src\main\res\drawable-hdpi\title_function_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\Test1\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\Test1\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\Test1\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="F:\Test1\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_main1" path="F:\Test1\app\src\main\res\layout\activity_main1.xml" qualifiers="" type="layout"/><file name="main_top_right_dialog" path="F:\Test1\app\src\main\res\layout\main_top_right_dialog.xml" qualifiers="" type="layout"/><file name="main" path="F:\Test1\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="F:\Test1\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="F:\Test1\app\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="app_name">Test</string></file><file path="F:\Test1\app\src\main\res\values\styles.xml" qualifiers=""><style name="MyDialogStyleTop" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimTop</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AnimTop" parent="@android:style/Animation">
+    	<item name="android:windowEnterAnimation">@anim/push_up_in</item>
+        <item name="android:windowExitAnimation">@anim/push_up_out</item>
+	</style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="F:\Test1\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="F:\Test1\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="F:\Test1\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file name="push_up_in" path="F:\Test1\app\src\main\res\anim\push_up_in.xml" qualifiers="" type="anim"/><file name="push_up_out" path="F:\Test1\app\src\main\res\anim\push_up_out.xml" qualifiers="" type="anim"/></source><source path="F:\Test1\app\build\generated\res\rs\debug"/><source path="F:\Test1\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\Test1\app\src\debug\res"/></dataSet><mergedItems/></merger>

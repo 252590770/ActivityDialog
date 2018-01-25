@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Test1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "F:\\Test1\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "F:\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_top_right_dialog.xml",
+        "source": "F:\\Test1\\app\\src\\main\\res\\layout\\main_top_right_dialog.xml"
+    }
+]

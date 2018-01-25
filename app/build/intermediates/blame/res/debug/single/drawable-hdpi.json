@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\Test1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Test1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_function_bg.9.png",
+        "source": "F:\\Test1\\app\\src\\main\\res\\drawable-hdpi\\title_function_bg.9.png"
+    }
+]
