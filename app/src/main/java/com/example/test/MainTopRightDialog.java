@@ -37,6 +37,7 @@ public class MainTopRightDialog extends Activity {
 		});
 
 
+
 		ll1.setOnClickListener(new OnClickListener() {
 
 			@Override
